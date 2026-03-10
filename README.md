@@ -34,7 +34,7 @@ Upload any `SKILL.md` file as a Project Knowledge document. Strip the YAML front
 
 ### Claude Code
 ```bash
-git clone https://github.com/YOUR_USERNAME/b2b-saas-marketing-skills.git
+git clone https://github.com/Stallin-Sanamandra/b2b-saas-marketing-skills.git
 cp -r b2b-saas-marketing-skills/skills/* ~/.claude/skills/
 ```
 

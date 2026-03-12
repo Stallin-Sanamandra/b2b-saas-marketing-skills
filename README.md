@@ -2,9 +2,9 @@
 
 Operator-built marketing skills for B2B SaaS teams running enterprise and mid-market motions. Built for Claude Code, Claude Projects, Cursor, and any AI agent that reads SKILL.md files.
 
-These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use — pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, and marketing ops governance.
+These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use: pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, and marketing ops governance.
 
-**Built by** [Stallin Sanamandra](https://linkedin.com/in/stallinsanamandra) — demand generation leader at a B2B SaaS compliance automation platform, managing multi-geo demand gen across NA-EU-ANZ and India-APAC.
+**Built by** [Stallin Sanamandra](https://www.linkedin.com/in/stallinsanamandra) — demand generation leader at a B2B SaaS compliance automation platform, managing multi-geo demand gen across NA-EU-ANZ and India-APAC.
 
 ## Why This Exists
 
@@ -13,7 +13,7 @@ The Claude skill ecosystem has 300+ marketing skills. Almost all of them are bui
 - Agency/freelancer workflows
 - Consumer/DTC brands
 
-If you run demand gen for a B2B SaaS company selling to enterprises — with 6-12 month sales cycles, multi-persona buying committees, HubSpot as your MAP, and pipeline (not leads) as your north star — the existing skills don't work out of the box.
+If you run demand gen for a B2B SaaS company selling to enterprises with 6-12 month sales cycles, multi-persona buying committees, HubSpot as your MAP, and pipeline (not leads) as your north star, the existing skills don't work out of the box.
 
 This repo fills that gap.
 
@@ -27,10 +27,16 @@ This repo fills that gap.
 | BDR Enablement Generator | Account research briefs, personalized outreach sequences, talk tracks, objection handling | 🔜 Coming |
 | Marketing Ops SOP Generator | Campaign naming conventions, tool governance, workflow QA, incident response playbooks | 🔜 Coming |
 
+## Quick Start
+1. Open [Claude.ai](https://claude.ai) and create a new Project
+2. Upload any SKILL.md file from this repo as a Project Knowledge document
+3. Start prompting. Example: "Review this ad copy for compliance terminology errors" (with GRC Guardrails)
+
 ## Installation
 
 ### Claude Projects (claude.ai)
 Upload any `SKILL.md` file as a Project Knowledge document. Strip the YAML frontmatter if Claude doesn't process it correctly in your setup.
+Most users will use the Claude Projects method above. The options below are for developers and technical marketers using terminal-based AI agents.
 
 ### Claude Code
 ```bash
@@ -61,7 +67,7 @@ Open the SKILL.md file, copy its contents, and paste it as your system prompt or
 
 ## Context File (Recommended)
 
-For best results, create a `product-context.md` file alongside your skills with:
+For best results, create a `product-context-template.md` file alongside your skills with:
 - Your ICP definition (company size, vertical, buyer personas)
 - Your product's positioning statement
 - Your approved messaging and terminology rules
@@ -76,9 +82,9 @@ Found a gap? Built a B2B SaaS marketing skill that should be here? PRs welcome. 
 
 Requirements for contributed skills:
 - Must be specific to B2B SaaS (not generic marketing)
-- Must reference pipeline/revenue metrics (not lead volume)
-- Must follow the SKILL.md format with YAML frontmatter
-- Must include "When to Use" and "When NOT to Use" sections
+- Should reference pipeline/revenue metrics (not lead volume)
+- Should follow the SKILL.md format with YAML frontmatter
+- Should include "When to Use" and "When NOT to Use" sections
 
 ## License
 

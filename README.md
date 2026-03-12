@@ -4,7 +4,7 @@ Operator-built marketing skills for B2B SaaS teams running enterprise and mid-ma
 
 These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use — pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, and marketing ops governance.
 
-**Built by** [Stallin Sanamandra](https://linkedin.com/in/stallinsanamandra) — demand generation leader at a B2B SaaS compliance automation platform, managing $1M+ quarterly budgets across NA-EU-ANZ and India-APAC.
+**Built by** [Stallin Sanamandra](https://linkedin.com/in/stallinsanamandra) — demand generation leader at a B2B SaaS compliance automation platform, managing multi-geo demand gen across NA-EU-ANZ and India-APAC.
 
 ## Why This Exists
 

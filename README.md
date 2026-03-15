@@ -25,7 +25,7 @@ This repo fills that gap.
 | [GRC Messaging Guardrails](skills/grc-messaging-guardrails/SKILL.md) | Validates compliance/security terminology and enforces claim accuracy in marketing copy | ✅ Live |
 | [Pipeline Attribution Narrator](skills/pipeline-attribution-narrator/SKILL.md) | Builds multi-touch attribution models and generates stakeholder-ready pipeline narratives | ✅ Live |
 | [ABM Program Orchestrator](skills/abm-program-orchestrator/SKILL.md) | End-to-end ABM program design: account selection, tiering, channel orchestration, BDR coordination, measurement, and closed-loop optimization | ✅ Live |
-| BDR Enablement Generator | Account research briefs, personalized outreach sequences, talk tracks, objection handling | 🔜 Coming |
+| [BDR Enablement Generator](skills/bdr-enablement-generator/SKILL.md) | Account research briefs, personalized outreach sequences, persona-specific talk tracks, objection handling, and closed-loop performance review | ✅ Live |
 | Marketing Ops SOP Generator | Campaign naming conventions, tool governance, workflow QA, incident response playbooks | 🔜 Coming |
 
 ## Installation

@@ -2,9 +2,9 @@
 
 Operator-built marketing skills for B2B SaaS teams running enterprise and mid-market motions. Built for Claude Code, Claude Projects, Cursor, and any AI agent that reads SKILL.md files.
 
-These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use — pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, and marketing ops governance.
+These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use — pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, marketing ops governance, and competitive enablement.
 
-**Built by** [Stallin Sanamandra](https://www.linkedin.com/in/stallinsanamandra) — growth marketing & demand generation leader at a B2B SaaS compliance automation platform, running multi-geo demand gen across NA-EU-ANZ and India-APAC.
+**Built by** [Stallin Sanamandra](https://www.linkedin.com/in/stallinsanamandra) — growth marketing and demand generation leader at a B2B SaaS compliance automation platform, running multi-geo demand gen across NA-EU-ANZ and India-APAC.
 
 ## Why This Exists
 
@@ -27,6 +27,7 @@ This repo fills that gap.
 | [ABM Program Orchestrator](skills/abm-program-orchestrator/SKILL.md) | End-to-end ABM program design: account selection, tiering, channel orchestration, BDR coordination, measurement, and closed-loop optimization | ✅ Live |
 | [BDR Enablement Generator](skills/bdr-enablement-generator/SKILL.md) | Account research briefs, personalized outreach sequences, persona-specific talk tracks, objection handling, and closed-loop performance review | ✅ Live |
 | [Marketing Ops SOP Generator](skills/marketing-ops-sop-generator/SKILL.md) | Campaign naming conventions, UTM governance, lead routing, QA checklists, incident response, change management, and continuous drift detection | ✅ Live |
+| [Competitive Battlecard Generator](skills/competitive-battlecard-generator/SKILL.md) | Competitor intelligence briefs, persona-specific battlecards, win/loss analysis, deployment playbooks, and decay prevention with 90-day refresh cycles | ✅ Live |
 
 ## Installation
 

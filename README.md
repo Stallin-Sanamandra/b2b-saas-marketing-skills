@@ -4,7 +4,7 @@ Operator-built marketing skills for B2B SaaS teams running enterprise and mid-ma
 
 These aren't generic marketing prompts. They encode the workflows, terminology rules, and decision frameworks that B2B SaaS marketing teams actually use — pipeline attribution, ABM orchestration, compliance-safe messaging, BDR enablement, and marketing ops governance.
 
-**Built by** [Stallin Sanamandra](https://www.linkedin.com/in/stallinsanamandra) — growth marketing leader at a B2B SaaS compliance automation platform, managing $880K+ quarterly budgets across NA-EU-ANZ and India-APAC.
+**Built by** [Stallin Sanamandra](https://www.linkedin.com/in/stallinsanamandra) — growth marketing & demand generation leader at a B2B SaaS compliance automation platform, running multi-geo demand gen across NA-EU-ANZ and India-APAC.
 
 ## Why This Exists
 
@@ -26,7 +26,7 @@ This repo fills that gap.
 | [Pipeline Attribution Narrator](skills/pipeline-attribution-narrator/SKILL.md) | Builds multi-touch attribution models and generates stakeholder-ready pipeline narratives | ✅ Live |
 | [ABM Program Orchestrator](skills/abm-program-orchestrator/SKILL.md) | End-to-end ABM program design: account selection, tiering, channel orchestration, BDR coordination, measurement, and closed-loop optimization | ✅ Live |
 | [BDR Enablement Generator](skills/bdr-enablement-generator/SKILL.md) | Account research briefs, personalized outreach sequences, persona-specific talk tracks, objection handling, and closed-loop performance review | ✅ Live |
-| Marketing Ops SOP Generator | Campaign naming conventions, tool governance, workflow QA, incident response playbooks | 🔜 Coming |
+| [Marketing Ops SOP Generator](skills/marketing-ops-sop-generator/SKILL.md) | Campaign naming conventions, UTM governance, lead routing, QA checklists, incident response, change management, and continuous drift detection | ✅ Live |
 
 ## Installation
 

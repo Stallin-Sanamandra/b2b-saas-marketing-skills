@@ -418,7 +418,7 @@ progression, not lead volume.
 | **Pipeline created (ABM-sourced)** | Pipeline $ from opportunities where an ABM target account created an SQO | Track separately from demand gen pipeline |
 | **Pipeline influenced (ABM-influenced)** | Pipeline $ from opportunities where ABM touched the account but didn't source the opportunity | Report alongside sourced, but don't conflate them |
 | **ABM cost per SQO** | Total ABM spend / SQOs created from ABM accounts | Compare against demand gen cost per SQO. Higher is acceptable if ACV justifies it. |
-| **ABM CAC payback** | ABM cost per SQO / (ACV × gross margin / 12) | Must be < 12 months. Compare against demand gen CAC payback. |
+| **ABM CAC payback** | Expected ABM CAC = cost per SQO / SQO-to-CW win rate. CAC payback (months) = expected CAC / (ACV × gross margin / 12). | Must be < 12 months. Compare against demand gen CAC payback. |
 | **Average deal size (ABM vs. non-ABM)** | Mean ACV of ABM-sourced deals vs. all other deals | ABM should produce 1.5-3× larger deals. If not, tiering or ICP is off. |
 
 **Tier 2 metrics (operational, for program optimization):**
@@ -541,7 +541,7 @@ or BDR execution.
   to impress.
 
 - **BDR Enablement Generator:** Phase 6 BDR sequences should be generated
-  using the enablement skill once available. This skill provides the strategic
+  using the enablement skill. This skill provides the strategic
   framework; the BDR skill produces the actual outreach content.
 
 - **Product Context Template:** Upload your ICP, approved messaging, and funnel

@@ -68,8 +68,6 @@ Open the SKILL.md file, copy its contents, and paste it as your system prompt or
 
 ## Context File (Recommended)
 
-## Context File (Recommended)
-
 For best results, create a `product-context.md` file alongside your skills with:
 
 * Your ICP definition (company size, vertical, buyer personas)

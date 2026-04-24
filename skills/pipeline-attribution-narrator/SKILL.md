@@ -431,7 +431,7 @@ Run this before presenting any attribution analysis or pipeline narrative.
 
 ### With Other Skills
 - **GRC Messaging Guardrails:** If your pipeline narrative includes compliance framework references (e.g., "SOC 2 pipeline grew 40%"), validate terminology
-- **ABM Program Orchestrator (coming):** ABM attribution requires account-level pipeline tracking, not just lead-level. This skill's segment split guidance applies
+- **ABM Program Orchestrator:** ABM attribution requires account-level pipeline tracking, not just lead-level. This skill's segment split guidance applies
 - **Product Context Template:** Upload your funnel definitions, channel mix, and segment ACVs alongside this skill for personalized output
 
 ### With Your Tech Stack

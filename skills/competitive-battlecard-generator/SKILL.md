@@ -204,7 +204,7 @@ WHAT OUR PROSPECTS SAY ABOUT THEM (from sales calls)
    don't list it. Reps who use unverified claims in deals lose credibility
    when the prospect checks.
 
-   ### Battlecard Evidence Controls
+### Battlecard Evidence Controls
 
 Every claim about a competitor must be evidence-tagged before inclusion in a battlecard.
 

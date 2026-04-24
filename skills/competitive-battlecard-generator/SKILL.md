@@ -204,6 +204,51 @@ WHAT OUR PROSPECTS SAY ABOUT THEM (from sales calls)
    don't list it. Reps who use unverified claims in deals lose credibility
    when the prospect checks.
 
+   ### Battlecard Evidence Controls
+
+Every claim about a competitor must be evidence-tagged before inclusion in a battlecard.
+
+| Field | Required |
+|-------|----------|
+| **Claim** | The specific statement about the competitor |
+| **Source** | Where this information comes from (G2 review, website, analyst report, win/loss interview, product test) |
+| **Date verified** | When this was last confirmed. Claims older than 90 days must be re-verified. |
+| **Confidence** | Verified (directly confirmed) / Inferred (reasonable conclusion) / Stale (>90 days, unverified) |
+| **Can sales say this live?** | Yes (verified, non-confidential, defensible) / No (unverified, potentially confidential, or legally risky) |
+
+#### Evidence Rules
+
+1. **Never state a competitor limitation as fact unless verified within 90 days.**
+   Products change. A feature gap from 6 months ago may be closed. Mark stale claims
+   and prioritize re-verification.
+
+2. **Never use confidential, non-public, or insider information.**
+   Only use publicly shareable, non-confidential sources. Do not solicit or include
+   confidential roadmap, pricing, customer, or internal strategy information from
+   former competitor employees or other non-public channels.
+
+3. **Every "They can't do X" claim must have a fallback.**
+   If the competitor closes the gap, what's the next differentiator? Include a
+   "If they fix this" contingency for every limitation you cite.
+
+4. **Price claims are the most dangerous.**
+   Competitor pricing changes without notice. Never state exact competitor pricing
+   unless sourced from their current public pricing page with a verification date.
+   Use ranges or relative positioning instead: "typically 20-30% higher" with source.
+
+### Live Deal Quick Card
+
+For sales reps who need a 10-second reference during a call, generate a condensed
+version alongside the full battlecard:
+
+QUICK CARD: [Competitor Name]
+Updated: [Date]
+SAY: [1-2 sentence positioning against this competitor]
+ASK: [The question that exposes their weakness]
+DON'T SAY: [The claim that will backfire or can't be defended]
+PROOF: [One verified customer quote or metric]
+ESCALATE IF: [Trigger to bring in SE, leadership, or specialist]
+
 ---
 
 ## Phase 2: Positioning & Differentiation Analysis

@@ -230,15 +230,19 @@ Run this checklist on every piece of marketing copy before publication.
 
 **Output (corrected):**
 > "Get SOC 2 audit-ready in as little as 2 weeks. Automate evidence collection with AI-powered
-> monitoring and reduce audit prep time by 60%. Trusted by 500+ SaaS companies including
-> [Customer A] and [Customer B]."
+> monitoring and reduce audit prep time by [APPROVED METRIC — check proof library]%.
+> Trusted by [APPROVED CUSTOMER COUNT] [SEGMENT] companies."
+
+**Note:** Never insert specific customer counts, named logos, or performance metrics
+unless they are supplied in an approved proof library. If proof is unavailable,
+mark the claim as `[PROOF NEEDED]` rather than inventing plausible numbers.
 
 **Corrections applied:**
 1. "certified" → "audit-ready" (SOC 2 is an attestation, not a certification)
 2. "guarantees compliance" → "automate evidence collection" (no tool guarantees compliance)
 3. "replaces the need for auditors" → "reduce audit prep time" (tools supplement, not replace)
-4. "hundreds of companies" → "500+ SaaS companies" (specific > vague)
-5. Added named customers for trust signal hierarchy
+4. "hundreds of companies" → "[APPROVED CUSTOMER COUNT] [SEGMENT] companies" (specific > vague, but must be verified)
+5. Named customers require explicit logo usage permission — use [APPROVED LOGOS] placeholder if unavailable
 
 ### Landing Page Headline Validation
 

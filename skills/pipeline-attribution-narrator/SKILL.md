@@ -383,6 +383,8 @@ Calendar payback = average sales cycle (months) + CAC payback (months)
 | **Calendar payback** | **15.7 months** |
 
 ### Common Error
+
+```
 ❌ "ABM costs $3,667 per SQO with 4-month payback"
    (Uses cost per SQO as CAC, ignores win rate and sales cycle)
 
@@ -390,6 +392,8 @@ Calendar payback = average sales cycle (months) + CAC payback (months)
    With $20K ACV and 75% margin, CAC payback is ~12 months.
    Including 4-month sales cycle, calendar payback is ~16 months.
    Justified by 2.8x higher ACV vs. C1 segment."
+```
+
 ## Validation Checklist
 
 Run this before presenting any attribution analysis or pipeline narrative.

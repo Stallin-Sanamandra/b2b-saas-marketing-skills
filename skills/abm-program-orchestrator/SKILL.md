@@ -112,13 +112,9 @@ Expected SQOs from ABM:      ________
 DERIVED METRICS
 Cost per SQO:                $________ (spend / SQOs)
 Expected revenue per SQO:    $________ (ACV × win rate)
-Expected customer CAC = cost per SQO / SQO-to-CW win rate
-CAC payback (months) = expected customer CAC / (ACV × gross margin / 12)
-Calendar payback = CAC payback + average sales cycle (months)
-
-CRITICAL: Cost per SQO is NOT customer CAC. If win rate is 25%, multiply
-cost per SQO by 4 to get expected CAC. Always present the full chain:
-cost per SQO → win rate → expected CAC → payback months → calendar payback.
+Expected customer CAC:       $________ (cost per SQO / win rate)
+CAC payback (months):        ________ (expected CAC / (ACV × margin / 12))
+Calendar payback (months):   ________ (CAC payback + sales cycle)
 Pipeline-to-spend ratio:     ________:1 ((SQOs × ACV) / spend)
 
 VIABILITY CHECK
@@ -127,6 +123,16 @@ VIABILITY CHECK
 □ Cost per SQO justified by ACV? (rule of thumb: cost per SQO < 20% of ACV)
 □ Win rate assumption based on data, not aspiration?
 ```
+### Critical: Cost per SQO is NOT Customer CAC
+
+If win rate is 25%, multiply cost per SQO by 4 to get expected CAC. Always present
+the full chain when reporting ABM economics:
+
+cost per SQO → win rate → expected CAC → CAC payback → calendar payback
+
+**Example:** $3,667 cost per SQO at 25% win rate = $14,667 expected CAC. At $20K ACV
+and 75% gross margin ($1,250 monthly gross profit), CAC payback is ~12 months. Add
+4-month sales cycle: calendar payback is ~16 months.
 
 ### ICP for ABM (Not the Same as Your Demand Gen ICP)
 

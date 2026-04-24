@@ -385,6 +385,31 @@ Last updated: [Date]
 Updated by: [Name]
 Next review: [Date + 90 days]
 
+⚠️ LEAD SCORING CALIBRATION WARNING
+
+The point values below are ILLUSTRATIVE EXAMPLES, not production-ready values.
+
+DO NOT implement a lead scoring model until you have:
+- At least 6 months of historical MQL→SQL→SQO conversion data
+- Win-rate analysis by firmographic attribute (which segments actually convert)
+- Engagement-to-conversion correlation (which behaviors actually predict intent)
+
+Unvalidated lead scoring causes measurable damage:
+- BDRs waste time on leads that look qualified but don't convert
+- Real buyers get delayed because the scoring threshold held them in nurture
+- Marketing reports show strong MQL volume that doesn't translate to pipeline
+- Trust between marketing and sales erodes over quarters, not weeks
+
+CALIBRATION PROCESS (before going live):
+1. Pull last 12 months of closed-won and closed-lost deals
+2. Calculate conversion rates by: company size, industry, title, geo
+3. Assign points proportional to observed conversion rate, not assumed importance
+4. Set MQL threshold so that ~60-70% of MQLs become SQLs (tune quarterly)
+5. Run parallel model for 30-60 days before switching BDR routing
+
+The values below illustrate STRUCTURE and RELATIVE WEIGHTING only. Replace
+every point value with calibrated values from your own conversion data.
+
 FIT SCORING (demographic/firmographic):
 ────────────────────────────────────────
 ATTRIBUTE         CRITERIA              POINTS

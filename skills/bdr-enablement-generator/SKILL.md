@@ -208,6 +208,7 @@ When completing the account research template in Phase 1, tag every field:
 
 **Rule: If more than 2 fields are tagged Unknown, the brief is not ready for outreach.
 Return to research or flag for manual account review.**
+
 ---
 
 ## Phase 2: Account Brief

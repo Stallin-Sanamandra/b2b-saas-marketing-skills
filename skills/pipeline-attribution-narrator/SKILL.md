@@ -383,7 +383,6 @@ Calendar payback = average sales cycle (months) + CAC payback (months)
 | **Calendar payback** | **15.7 months** |
 
 ### Common Error
-
 ```
 ❌ "ABM costs $3,667 per SQO with 4-month payback"
    (Uses cost per SQO as CAC, ignores win rate and sales cycle)

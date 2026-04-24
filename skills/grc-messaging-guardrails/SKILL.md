@@ -123,7 +123,7 @@ These claims are acceptable with proper context. Flag if used without qualificat
 |-------|----------------------|
 | "Reduces audit time" | Must specify: by how much, based on what data, for which framework. E.g., "Reduces SOC 2 audit prep time by 60% based on customer data (n=50)." |
 | "Saves X hours" | Must cite source: customer survey, case study, or internal benchmark. |
-| "Trusted by X companies" | Must be verifiable. Specify segment if possible: "Trusted by 500+ SaaS companies." |
+| "Trusted by X companies" | Must be verifiable. Specify segment if possible: "Trusted by [APPROVED CUSTOMER COUNT] [SEGMENT] companies." |
 | "Faster than [competitor]" | Must have documented basis. Comparative claims require defensible evidence. |
 | "AI-powered" | Must specify what the AI does. "AI-powered risk assessment" is acceptable. "AI-powered compliance" is vague. |
 | "Enterprise-grade" | Must be backed by specific capabilities: SSO, RBAC, SOC 2 Type II of your own product, uptime SLAs, etc. |
@@ -179,7 +179,7 @@ In order of credibility impact for GRC buyers:
 2. **Specific metrics from customer deployments** (e.g., "60% faster audit prep")
 3. **Analyst recognition** (Gartner, Forrester, G2 category leader)
 4. **Your own compliance posture** (your SOC 2 Type II report, ISO 27001 cert)
-5. **Customer count with segment specificity** ("500+ SaaS companies" > "trusted by many")
+5. **Customer count with segment specificity** ("[APPROVED CUSTOMER COUNT] [SEGMENT] companies" > "trusted by many")
 6. **Integration count** (signals depth of evidence automation)
 7. **Framework count** (signals breadth, but only if each is genuinely supported)
 

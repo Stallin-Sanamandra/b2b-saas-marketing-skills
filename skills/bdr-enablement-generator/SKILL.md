@@ -166,6 +166,48 @@ Not all sources are equal. Prioritize by signal quality.
 | **Tier 2** | 10-15 minutes | Company overview, compliance posture, top 1-2 buying triggers, primary persona identified. |
 | **Tier 3** | 0 minutes (programmatic) | ICP data from enrichment tools only. No manual research. Outreach is template-based. |
 
+### Evidence Confidence Framework
+
+Every trigger, pain point, proof point, competitor mention, and personalization angle
+in a BDR research brief or outreach sequence must carry a confidence tag.
+
+| Tag | Definition | Rule |
+|-----|-----------|------|
+| **Verified** | Confirmed from a reliable, dated source (company website, press release, SEC filing, G2 review, LinkedIn announcement, CRM data) | Safe to use in outreach |
+| **Inferred** | Reasonable conclusion from indirect signals (job postings, tech stack indicators, industry trends, firmographic patterns) | Use with hedging language: "Based on [signal], it looks like..." |
+| **Unknown** | No supporting evidence found, or evidence is older than 6 months | Do NOT use in outreach. Mark as `[RESEARCH NEEDED]` |
+
+#### Application Rules
+
+1. **Triggers:** Every outreach trigger (funding, new hire, audit deadline, expansion)
+   must have a source URL and date. If no source exists, tag as Unknown and do not
+   include in the sequence.
+
+2. **Proof points:** Every "companies like yours" reference, time-savings claim, or
+   ROI metric must cite an approved case study or customer quote. If unavailable,
+   use `[APPROVED CASE STUDY NEEDED]` placeholder.
+
+3. **Competitor mentions:** Every competitor reference must be tagged with source and
+   recency. Do not state competitor limitations unless verified within the last 90 days.
+
+4. **"Similar company" examples:** Never fabricate examples. Use only named, approved
+   customer references. If none exist for the prospect's segment, omit the social
+   proof angle rather than inventing one.
+
+#### Research Brief Confidence Format
+
+When completing the account research template in Phase 1, tag every field:
+
+| Field | Content | Confidence | Source | Date |
+|-------|---------|:---:|--------|------|
+| Company trigger | [What changed] | Verified / Inferred / Unknown | [URL or source] | [Date] |
+| Pain hypothesis | [Assumed pain point] | Verified / Inferred / Unknown | [Evidence] | [Date] |
+| Competitor in use | [Current vendor] | Verified / Inferred / Unknown | [Source] | [Date] |
+| Proof point | [Relevant case study] | Verified / Inferred / Unknown | [Approved? Y/N] | [Date] |
+| Personalization angle | [Why this matters to them] | Verified / Inferred / Unknown | [Basis] | [Date] |
+
+**Rule: If more than 2 fields are tagged Unknown, the brief is not ready for outreach.
+Return to research or flag for manual account review.**
 ---
 
 ## Phase 2: Account Brief

@@ -241,6 +241,7 @@ Every claim about a competitor must be evidence-tagged before inclusion in a bat
 For sales reps who need a 10-second reference during a call, generate a condensed
 version alongside the full battlecard:
 
+```
 QUICK CARD: [Competitor Name]
 Updated: [Date]
 SAY: [1-2 sentence positioning against this competitor]
@@ -248,7 +249,7 @@ ASK: [The question that exposes their weakness]
 DON'T SAY: [The claim that will backfire or can't be defended]
 PROOF: [One verified customer quote or metric]
 ESCALATE IF: [Trigger to bring in SE, leadership, or specialist]
-
+```
 ---
 
 ## Phase 2: Positioning & Differentiation Analysis

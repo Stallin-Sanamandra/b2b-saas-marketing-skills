@@ -123,7 +123,7 @@ Everything else is a supporting input.
 
 | Metric | Definition | Why It Matters |
 |--------|-----------|----------------|
-| **CAC Payback Period** | Months until a customer's gross margin repays their acquisition cost | The single best metric for evaluating marketing efficiency. Combines CAC, ACV, and margin into one number. |
+| **CAC Payback Period** | Months until a customer's gross margin repays their full acquisition cost. **Critical: use customer CAC (total cost / closed-won customers), not cost per SQO.** If SQO-to-CW win rate is 25%, a $3,000 cost per SQO means $12,000 customer CAC. | The single best metric for evaluating marketing efficiency. Combines CAC, ACV, gross margin, and win rate into one number. |
 | **Pipeline-to-Spend Ratio** | Total pipeline generated / total marketing spend | Quick health check. B2B SaaS benchmark: 5:1 to 10:1 depending on ACV. |
 | **Blended CAC** | Total sales + marketing cost / new customers acquired | The number your CFO cares about. Must include sales cost, not just marketing. |
 | **Marketing-Sourced Pipeline %** | Pipeline from marketing-sourced opportunities / total pipeline | Shows marketing's contribution to revenue. Target: 40-60% for most B2B SaaS. |
@@ -342,10 +342,47 @@ ACV (3.4-month payback). Raw CAC comparisons mislead when ACV varies across segm
 | **Attributing to last campaign, not last meaningful touch** | A newsletter open gets credit when the demo request came from a Google ad | Define what counts as a "meaningful" touch. Passive touches (email opens, page views) shouldn't carry equal weight. |
 | **Ignoring time lag** | You cut a channel and pipeline drops 60 days later because the lagging effect wasn't visible | Map time-to-pipeline by channel. Content and SEO have 60-180 day lags. Paid can be 14-30 days. |
 | **Optimizing for cost per lead instead of cost per SQO** | You scale cheap lead sources that never convert to pipeline | Always track conversion rates from lead through to SQO. A $50 lead with 1% SQO rate costs $5,000 per SQO. |
-| **Not accounting for sales cycle in CAC payback** | You think a channel pays back in 6 months but it's actually 11 because deals take 5 months to close | CAC payback = CAC / (ACV × gross margin / 12). But add average sales cycle length to get the real time-to-payback. |
+| **Confusing cost per SQO with customer CAC** | You present $3,000 cost per SQO as CAC when your win rate is 25%, making actual CAC $12,000. Leadership makes budget decisions on wrong economics. | Customer CAC = total sales + marketing cost / closed-won customers. Expected CAC from pipeline = cost per SQO / SQO-to-CW win rate. Always use customer CAC for payback calculations. |
+| **Not accounting for sales cycle in CAC payback** | You think a channel pays back in 6 months but it's actually 11 because deals take 5 months to close | CAC payback (months) = customer CAC / (ACV × gross margin / 12). Calendar payback = CAC payback + average sales cycle length. |
 
 ---
+---
 
+## CAC Calculation Reference
+
+These formulas must be used consistently across all pipeline narratives and board reports.
+
+### The Formulas
+
+**Customer CAC (actual):**
+Customer CAC = (total marketing spend + total sales cost) / closed-won customers
+
+**Expected CAC (from pipeline):**
+Expected CAC = cost per SQO / SQO-to-CW win rate
+
+**CAC Payback Period:**
+CAC payback (months) = customer CAC / (ACV × gross margin / 12)
+
+**Calendar Payback (real-world):**
+Calendar payback = average sales cycle (months) + CAC payback (months)
+
+### Example Calculation
+
+| Input | Value |
+|-------|-------|
+| Channel spend | $110,000 |
+| SQOs generated | 30 |
+| Cost per SQO | $3,667 |
+| SQO-to-CW win rate | 25% |
+| Expected customer CAC | $14,667 |
+| Target ACV | $20,000 |
+| Gross margin | 75% |
+| Monthly gross profit | $1,250 |
+| CAC payback | 11.7 months |
+| Average sales cycle | 4 months |
+| **Calendar payback** | **15.7 months** |
+
+### Common Error
 ## Validation Checklist
 
 Run this before presenting any attribution analysis or pipeline narrative.

@@ -64,6 +64,9 @@ Open the SKILL.md file, copy its contents, and paste it as your system prompt or
 3. **Operator-built, not theory-derived.** These skills encode workflows tested with real budget and real quota.
 4. **HubSpot-native where applicable.** Field names, workflow logic, and attribution models reference HubSpot conventions.
 5. **Vertical-aware.** GRC/cybersecurity/compliance context is baked in where relevant, but the frameworks apply to any regulated B2B SaaS vertical.
+6. **Motion-aware.** Different ABM and demand gen motions require different orchestration. These skills distinguish between 1:1 strategic ABM, 1:few segment-based ABM, 1:many account-targeted campaigns, competitive displacement plays, and expansion motions. Framework logic adapts to the motion, not the other way around.
+
+## Context File (Recommended)
 
 ## Context File (Recommended)
 

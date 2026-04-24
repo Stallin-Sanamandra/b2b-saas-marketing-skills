@@ -240,7 +240,6 @@ Every claim about a competitor must be evidence-tagged before inclusion in a bat
 
 For sales reps who need a 10-second reference during a call, generate a condensed
 version alongside the full battlecard:
-
 ```
 QUICK CARD: [Competitor Name]
 Updated: [Date]

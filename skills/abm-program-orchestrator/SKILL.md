@@ -7,8 +7,8 @@ description: >
   defining ABM measurement frameworks, or running an ABM program review. Also use when
   asked to "build an ABM program," "set up account-based marketing," "design a target
   account strategy," "plan ABM campaigns," or "measure ABM results." Designed for demand
-  gen teams selling to 50-500+ employee companies with $15K-$50K+ ACV, multi-persona
-  buying committees, and 3-12 month sales cycles.
+  gen teams selling to Mid-Market companies with $10K-$50K+ ACV, multi-persona
+  buying committees, and 3-6 month sales cycles.
 ---
 
 # ABM Program Orchestrator
@@ -112,7 +112,13 @@ Expected SQOs from ABM:      ________
 DERIVED METRICS
 Cost per SQO:                $________ (spend / SQOs)
 Expected revenue per SQO:    $________ (ACV × win rate)
-CAC payback period:          ________ months (cost per SQO / (ACV × margin / 12))
+Expected customer CAC = cost per SQO / SQO-to-CW win rate
+CAC payback (months) = expected customer CAC / (ACV × gross margin / 12)
+Calendar payback = CAC payback + average sales cycle (months)
+
+CRITICAL: Cost per SQO is NOT customer CAC. If win rate is 25%, multiply
+cost per SQO by 4 to get expected CAC. Always present the full chain:
+cost per SQO → win rate → expected CAC → payback months → calendar payback.
 Pipeline-to-spend ratio:     ________:1 ((SQOs × ACV) / spend)
 
 VIABILITY CHECK

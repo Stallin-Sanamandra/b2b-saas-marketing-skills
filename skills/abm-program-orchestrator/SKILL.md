@@ -534,7 +534,7 @@ or BDR execution.
   because they signal a lack of domain expertise to the exact audience you're trying
   to impress.
 
-- **BDR Enablement Generator (coming):** Phase 6 BDR sequences should be generated
+- **BDR Enablement Generator:** Phase 6 BDR sequences should be generated
   using the enablement skill once available. This skill provides the strategic
   framework; the BDR skill produces the actual outreach content.
 

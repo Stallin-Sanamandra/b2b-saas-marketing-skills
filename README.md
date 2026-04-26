@@ -52,7 +52,7 @@ Open the SKILL.md file, copy its contents, and paste it as your system prompt or
 
 ## Who This Is For
 
-* **Demand gen leaders** at B2B SaaS companies ($5M-$100M ARR) running paid + ABM + content motions
+* **Demand gen leaders** at B2B SaaS companies ($5M-$50M ARR) running paid + ABM + content motions
 * **Marketing ops managers** who need standardized processes for HubSpot, UTM governance, and campaign tracking
 * **Growth marketers** who report on pipeline and revenue, not MQLs
 * **BDR/SDR managers** who need scalable account research and outreach frameworks

@@ -13,8 +13,7 @@ The Claude skill ecosystem has 500+ marketing skills. Almost all of them are bui
 * Founder-led PLG companies
 * Agency/freelancer workflows
 * Consumer/DTC brands
-
-If you run demand gen for a B2B SaaS company selling to enterprises — with 6-12 month sales cycles, multi-persona buying committees, HubSpot as your MAP, and pipeline (not leads) as your north star — the existing skills don't work out of the box.
+If you run demand gen for a B2B SaaS company selling to enterprises — with 6-12 month sales cycles, multi-persona buying committees, HubSpot as your MAP, and pipeline (not leads) as your north star — these 500+ existing skills don't work out of the box.
 
 This repo fills that gap.
 

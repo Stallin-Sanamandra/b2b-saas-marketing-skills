@@ -28,6 +28,9 @@ This repo fills that gap.
 | [BDR Enablement Generator](skills/bdr-enablement-generator/SKILL.md) | Account research briefs, personalized outreach sequences, persona-specific talk tracks, objection handling, and closed-loop performance review | ✅ Live |
 | [Marketing Ops SOP Generator](skills/marketing-ops-sop-generator/SKILL.md) | Campaign naming conventions, UTM governance, lead routing, QA checklists, incident response, change management, and continuous drift detection | ✅ Live |
 | [Competitive Battlecard Generator](skills/competitive-battlecard-generator/SKILL.md) | Competitor intelligence briefs, persona-specific battlecards, win/loss analysis, deployment playbooks, and decay prevention with 90-day refresh cycles | ✅ Live |
+| [Account Research Brief Generator](skills/account-research-brief-generator/SKILL.md) | Tier-calibrated, sourced research briefs for named target accounts: company snapshot, GRC surface area, trigger events, buying committee, tech stack signals, outreach hypothesis, and per-account feedback loop | ✅ Live |
+| [CEO Monthly Revenue Report Generator](skills/ceo-monthly-revenue-report-generator/SKILL.md) | Monthly revenue-accountable marketing report for CEOs, CFOs, and boards: revenue contribution, CAC payback by segment with finance alignment, channel performance, forward pipeline coverage with sales capacity check, and a 30-day bet | ✅ Live |
+| [LinkedIn Post Generator (Operator POV)](skills/linkedin-post-generator-operator-pov/SKILL.md) | Five archetypes (decision, framework, miss, counter, build) for converting real B2B SaaS marketing decisions into credible LinkedIn posts, with redaction ladder, embedded humanization checklist, and three-level measurement loop | ✅ Live |
 
 ## Installation
 

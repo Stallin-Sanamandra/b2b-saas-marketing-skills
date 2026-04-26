@@ -8,7 +8,7 @@ These aren't generic marketing prompts. They encode the workflows, terminology r
 
 ## Why This Exists
 
-The Claude skill ecosystem has 300+ marketing skills. Almost all of them are built for:
+The Claude skill ecosystem has 500+ marketing skills. Almost all of them are built for:
 
 * Founder-led PLG companies
 * Agency/freelancer workflows
